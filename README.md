@@ -1,4 +1,10 @@
+<!--
 ### Hi there 👋
+-->
+
+<a href="https://github.com/SphenHe?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=SphenHe&show_icons=true&hide_border=true&theme=react&locale=cn" alt="" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SphenHe&locale=cn&theme=react&hide_border=true" alt="Top Langs" align="right"></a>
+
+最喜欢的事情莫过于不用思考。
 
 <!--
 **SphenHe/SphenHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
